@@ -1,4 +1,4 @@
 - Hi, I'm Hedley.
-- I'm a data analyst/engineer. I mainly write R and Python code.
+- I'm a software engineer/data analyst-type person. I mainly write R and Python code.
 - My [primary](https://gitlab.com/hedsnz) remote account is with GitLab, but I maintain this account to contribute to open-source projects.
 - You can reach me via [my website](https://heds.nz).
